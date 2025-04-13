@@ -34,7 +34,6 @@ MANIFEST
 
 # PyInstaller output
 /build/
-/dist/
 
 # Installer logs
 pip-log.txt
